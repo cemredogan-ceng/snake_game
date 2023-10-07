@@ -1,0 +1,8 @@
+**********SKOR TABLOSU**********
+--------------------------------
+buketugurlu
+Ad: cemre
+Soyad: Dogan
+Yas: 21
+Skor: 270
+--------------------
